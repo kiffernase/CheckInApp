@@ -2,4 +2,6 @@
     <string name="app_name">TestApp</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_add_patient">addPatient</string>
+    <string name="title_activity_koerper_bausteine">KoerperBausteine</string>
+    <string name="title_activity_overview">Overview</string>
 </resources>

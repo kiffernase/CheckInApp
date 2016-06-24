@@ -145,4 +145,13 @@
         android:layout_alignRight="@+id/editText"
         android:layout_alignEnd="@+id/editText" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Patient aufnehmen"
+        android:id="@+id/btnPatientAufnehmen"
+        android:layout_marginBottom="65dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>
